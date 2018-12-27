@@ -3,13 +3,13 @@
   "version": "3.0.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "latest",
-    "gatsby": "latest",
-    "jss": "latest",
-    "prop-types": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-jss": "latest"
+    "@material-ui/core": "^3.7.1",
+    "gatsby": "^2.0.75",
+    "jss": "^9.8.7",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-jss": "^8.6.1"
   },
   "scripts": {
     "develop": "gatsby develop",
